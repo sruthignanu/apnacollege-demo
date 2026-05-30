@@ -1,3 +1,4 @@
 # apnacollege-demo
-this is my practice repository
-author- sruthi doddi
+this is my practice repository.
+<br>
+Author- Sruthi Doddi
